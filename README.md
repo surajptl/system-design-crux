@@ -16,7 +16,7 @@ An open-source collection of essential system design concepts explained with cle
 
 Each topic is documented in the `docs/` folder and implemented under `implementations/{topic}/{language}`.
 
-## Example
+## Content
 
 To learn about the Bloom Filter:
 - 📘 Read: [`docs/bloom-filter.md`](docs/bloom-filter.md)

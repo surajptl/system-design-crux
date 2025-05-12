@@ -70,7 +70,7 @@ system-design-crux/
 
 - **Language**: Python 3.8+
 - **Hashing Library**: [`mmh3`](https://pypi.org/project/mmh3/)
-- **Testing Framework**: [`pytest`](https://docs.pytest.org/en/stable/)
+- **Testing Framework**: [`unittest`](https://docs.python.org/3/library/unittest.html)
 
 ---
 

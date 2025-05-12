@@ -18,10 +18,10 @@ Each topic is documented in the `docs/` folder and implemented under `implementa
 
 ## Content
 
-To learn about the Bloom Filter:
-- 📘 Read: [`docs/bloom-filter.md`](docs/bloom-filter.md)
-- 🧠 Code:
-  - Python: [`implementations/bloom-filter/python/bloom_filter.py`](implementations/bloom-filter/python/bloom_filter.py)
+1. Bloom Filter
+   - 📘 Read: [`docs/bloom-filter.md`](docs/bloom-filter.md)
+   - 🧠 Code:
+     - Python: [`implementations/bloom-filter/python/bloom_filter.py`](implementations/bloom-filter/python/bloom_filter.py)
 
 
 

@@ -68,11 +68,17 @@ system-design-crux/
 
 ## 🔗 References & Further Reading
 
-- 📘 [Wikipedia: Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
-- 📄 [Bloom Filters - MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-6-hashing-and-bloom-filters/)
-- 🧠 [Bloom Filters by Jeff Dean (Google)](https://www.youtube.com/watch?v=4SK0yZ9de3M)
-- 📚 [Probabilistic Data Structures for Web Analytics](https://engineering.linkedin.com/blog/2016/02/bloom-filters---the-whys--whats-and-hows)
-- 🔍 [Cloudflare: How Bloom Filters Help Block Bots](https://blog.cloudflare.com/counting-things-a-lot-of-things/)
+- 📖 [Wikipedia: Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- 📖 [The Case for Learned Index Structures](https://doi.org/10.1145/3183713.3196909)
+- 📖 [Bloom filters - introduction and implementation](https://www.google.com/search?q=https://www.geeksforgeeks.org/bloom-filters-introduction-and-implementation/)
+- 📖 [A model for learned bloom filters, and optimizing by sandwiching](https://www.google.com/search?q=https://proceedings.neurips.cc/paper/2018/hash/58355a0432f0207a5b2338ad17f80c1a-Abstract.html)
+- 📖 [On the false-positive rate of Bloom filters](https://doi.org/10.1016/j.ipl.2008.05.018)
+- 📖 [Adaptive Learned Bloom Filter (Ada-BF): Efficient Utilization of the Classifier](https://doi.org/10.48550/arXiv.1910.09131)
+- 📖 [Partitioned Learned Bloom Filter](https://www.google.com/search?q=https://doi.org/10.48550/arXiv.2006.03176)
+- 📖 [Stable learned bloom filters for data streams](https://doi.org/10.14778/3407790.3407830)
+- 📖 [Approximately detecting duplicates for streaming data using stable bloom filters](https://doi.org/10.1145/1142473.1142477)
+- 📖 [Bloom Filters Explained](https://systemdesign.one/bloom-filters-explained/)
+- 📖 [Redis Bloom Filter Documentation](https://redis.io/docs/latest/develop/data-types/probabilistic/bloom-filter/)
 
 ---
 

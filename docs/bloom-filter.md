@@ -96,10 +96,10 @@ python bloom_filter/test_bloom_filter.py
 
 ## ✅ Coming Up (Future Enhancements)
 
-- Counting Bloom Filters
-- Scalable Bloom Filters
-- Compressed Bloom Filters
-- Language support: Java, Go, Rust, C++
+- [] Counting Bloom Filters
+- [] Scalable Bloom Filters
+- [] Compressed Bloom Filters
+- [] Language support: Java, Go, Rust, C++
 
 
 ---
